@@ -1,5 +1,8 @@
 # causal-toolkit-ambersophia
 
+[![Tests](https://github.com/ambersophia/causal-toolkit-ambersophia/actions/workflows/tests.yml/badge.svg)](https://github.com/ambersophia/causal-toolkit-ambersophia/actions)
+[![PyPI version](https://badge.fury.io/py/causal-toolkit-ambersophia.svg)](https://pypi.org/project/causal-toolkit-ambersophia/)
+
 A Python package for causal inference: average treatment effect (ATE) estimation for randomized experiments, propensity score methods for observational data, and meta-learners for conditional average treatment effects (CATE).
 
 ## Installation
